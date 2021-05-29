@@ -18,7 +18,7 @@ import static org.springframework.test.web.servlet.result.MockMvcResultMatchers.
 @SpringBootTest
 @AutoConfigureMockMvc
 @TestMethodOrder(MethodOrderer.OrderAnnotation.class)
-class GraphqldemoApplicationTests {
+class DemoGraphqlApplicationTests {
 
 	@Autowired
 	MockMvc mockMvc;
